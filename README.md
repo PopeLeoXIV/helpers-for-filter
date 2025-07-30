@@ -7,3 +7,6 @@ helper files to convert images to grayscale, sepia, etc.
 
 ## Grayscale
 ![](https://github.com/PopeLeoXIV/helpers-for-filter/blob/main/towergrey.bmp)
+
+## Sepia
+![](https://github.com/PopeLeoXIV/helpers-for-filter/blob/main/towersepia.bmp)
