@@ -10,3 +10,5 @@ helper files to convert images to grayscale, sepia, etc.
 
 ## Sepia
 ![](https://github.com/PopeLeoXIV/helpers-for-filter/blob/main/towersepia.bmp)
+
+<font color="red">This text is red!</font>
